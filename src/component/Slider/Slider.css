@@ -1,0 +1,21 @@
+:root{
+    --height: 750px;
+}
+.images{
+   background-image: url('../../../public/img/banner1.png');
+   height: var(--height);
+}
+.image{
+    background-image: url('../../../public/img/banner2.png');
+    height: var(--height);
+}
+.img{
+    background-image: url('../../../public/img/banner3.png');
+    height: var(--height);
+}
+/* span.carousel-control-prev-icon,.carousel-control-next-icon {
+    color: black;
+} */
+.carousel-indicators {
+    display: none;
+}
