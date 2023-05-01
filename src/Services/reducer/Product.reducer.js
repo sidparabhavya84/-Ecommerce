@@ -2,6 +2,7 @@ import { GET_PRODUCTS } from "../constant/Action.types"
 const initialState = {
     Products: []
 }
+
 const productReducer = (state = initialState, action) => {
 
     switch (action.type) {

@@ -8,8 +8,6 @@ import Foot from './component/Foot/Foot';
 import About from './component/About/About';
 import Contact from './component/Contact/Contact';
 import Product from './component/Product/Product';
-import Review from './component/Review/Review';
-
 
 function App() {
   return (

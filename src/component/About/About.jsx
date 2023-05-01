@@ -29,6 +29,7 @@ function About() {
                             <h4>Ullamco laboris nisi</h4>
                             <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                         </div>
+                        
                         <div className="icon-box" data-aos="fade-up" data-aos-delay={200}>
                             <Boxes />
                             <h4>Ullamco laboris nisi</h4>

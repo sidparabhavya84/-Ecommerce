@@ -5,8 +5,6 @@ import Service from '../Service/Service'
 import About from '../About/About'
 import Contact from '../Contact/Contact'
 import Product from '../Product/Product'
-import Review from '../Review/Review'
-
 
 function Home() {
     return (

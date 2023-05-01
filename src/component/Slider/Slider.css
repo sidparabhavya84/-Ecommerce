@@ -13,9 +13,6 @@
     background-image: url('../../../public/img/banner3.png');
     height: var(--height);
 }
-/* span.carousel-control-prev-icon,.carousel-control-next-icon {
-    color: black;
-} */
 .carousel-indicators {
     display: none;
 }

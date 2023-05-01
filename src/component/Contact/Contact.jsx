@@ -33,7 +33,6 @@ function Contact() {
                                         <h4>Email:</h4>
                                         <p>info@example.com</p>
                                     </div>
-
                                 </div>
                                 <div className="phone mt-4">
                                     <div className='icon fs-5'>

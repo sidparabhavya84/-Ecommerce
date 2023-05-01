@@ -7,6 +7,7 @@ export const getProducts = (data) => {
         payload: data
     }
 }
+
 export const getProductsAsync = () => {
 
     return async dispatch => {

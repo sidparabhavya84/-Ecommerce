@@ -17,7 +17,6 @@ function Product() {
     useEffect(() => {
         get()
     }, [])
-
     return (
         <>
             <section className='p-3'>
